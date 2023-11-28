@@ -1,0 +1,2 @@
+# jslibcndn
+javascript utility library
