@@ -1,0 +1,11 @@
+{
+  "name": "jslibcndn",
+  "version": "1.0.0",
+  "description": "CNDN Javascript Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lovecpu@cndn.co.kr",
+  "license": "CNDN"
+}
